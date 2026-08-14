@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image:044260498233.dkr.ecr.us-east-1.amazonaws.com/a1:latest
+        image: 044260498233.dkr.ecr.us-east-1.amazonaws.com/a1:latest
         ports:
         - containerPort: 5000
