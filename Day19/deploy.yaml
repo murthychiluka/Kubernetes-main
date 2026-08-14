@@ -18,4 +18,4 @@ spec:
       - name: nginx
         image:044260498233.dkr.ecr.us-east-1.amazonaws.com/a1:latest
         ports:
-        - containerPort: 80 
+        - containerPort: 5000
